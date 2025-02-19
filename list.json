@@ -1,0 +1,685 @@
+[
+  {
+    "id": 1,
+    "name": "Survival of the Fattest",
+    "type": ["Strategy", "Humor"],
+    "description": "A survival-based game where players compete for resources in a humorous take on the food chain.",
+    "categories": ["Card Game", "Set Collection", "Drafting"],
+    "mechanics": ["Hand Management", "Simultaneous Action Selection"],
+    "theme": ["Animals", "Survival", "Food"],
+    "players": { "min": "1", "max": "4" },
+    "playtime": { "min": "45", "max": "90", "unit": "minute" },
+    "bgg": {
+      "rating": "7.5",
+      "link": "https://boardgamegeek.com/boardgame/363870/survival-of-the-fattest"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Wingspan",
+    "type": ["Family", "Strategy"],
+    "description": "Attract a beautiful and diverse collection of birds to your wildlife preserve.",
+    "categories": ["Animals", "Card Game", "Educational"],
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive"
+    ],
+    "theme": ["Animals", "Birds", "Nature", "Biology"],
+    "players": { "min": "1", "max": "5" },
+    "playtime": { "min": "40", "max": "70", "unit": "minute" },
+    "bgg": {
+      "rating": "8.1",
+      "link": "https://boardgamegeek.com/boardgame/266192/wingspan"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Wingspan: Oceania",
+    "type": ["Family", "Strategy", "Expansion"],
+    "description": "An expansion for Wingspan introducing new birds from Oceania and a revised food system.",
+    "categories": ["Animals", "Card Game", "Expansion"],
+    "mechanics": ["Hand Management", "Set Collection", "Dice Rolling"],
+    "theme": ["Birds", "Nature", "Biology"],
+    "players": { "min": "1", "max": "5" },
+    "playtime": { "min": "40", "max": "70", "unit": "minute" },
+    "bgg": {
+      "rating": "8.5",
+      "link": "https://boardgamegeek.com/boardgameexpansion/300580/wingspan-oceania-expansion"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Champions of Midgard",
+    "type": ["Strategy", "Dice"],
+    "description": "A Viking-themed game where players recruit warriors and fight mythical Norse creatures.",
+    "categories": ["Fantasy", "Worker Placement", "Combat"],
+    "mechanics": ["Dice Rolling", "Resource Management", "Worker Placement"],
+    "theme": ["Vikings", "Mythology", "Adventure"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "60", "max": "90", "unit": "minute" },
+    "bgg": {
+      "rating": "7.7",
+      "link": "https://boardgamegeek.com/boardgame/172287/champions-of-midgard"
+    }
+  },
+  {
+    "id": 5,
+    "name": "The Witcher Adventure Game",
+    "type": ["Strategy", "Adventure"],
+    "description": "A quest-driven board game set in The Witcher universe, where players take on the roles of iconic characters from the series.",
+    "categories": ["Fantasy", "Adventure", "Narrative-driven"],
+    "mechanics": [
+      "Dice Rolling",
+      "Storytelling",
+      "Hand Management",
+      "Point to Point Movement"
+    ],
+    "theme": ["Fantasy", "Medieval", "Monsters"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "120", "max": "180", "unit": "minute" },
+    "bgg": {
+      "rating": "6.4",
+      "link": "https://boardgamegeek.com/boardgame/147116/the-witcher-adventure-game"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Stardew Valley: The Board Game",
+    "type": ["Cooperative", "Strategy"],
+    "description": "A cooperative game where players work together to restore their farm, befriend villagers, and complete Grandpa’s goals.",
+    "categories": ["Farming", "Resource Management", "Co-op"],
+    "mechanics": [
+      "Action Points",
+      "Deck Building",
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "theme": ["Farming", "Nature", "Rural Life"],
+    "players": { "min": "1", "max": "4" },
+    "playtime": { "min": "45", "max": "200", "unit": "minute" },
+    "bgg": {
+      "rating": "7.6",
+      "link": "https://boardgamegeek.com/boardgame/332290/stardew-valley-board-game"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Everdell",
+    "type": ["Strategy", "Worker Placement"],
+    "description": "A charming worker-placement game where players build a woodland city by collecting resources, constructing buildings, and recruiting adorable critters.",
+    "categories": ["Fantasy", "City Building", "Animals"],
+    "mechanics": ["Card Drafting", "Resource Management", "Worker Placement"],
+    "theme": ["Animals", "Fantasy", "Nature"],
+    "players": { "min": "1", "max": "4" },
+    "playtime": { "min": "40", "max": "80", "unit": "minute" },
+    "bgg": {
+      "rating": "8.0",
+      "link": "https://boardgamegeek.com/boardgame/199792/everdell"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Scythe",
+    "type": ["Strategy", "Area Control"],
+    "description": "A competitive 4X-style game set in an alternate-history 1920s, where players build their engines, expand territories, and engage in strategic combat.",
+    "categories": ["Alternate History", "Mechs", "Economy"],
+    "mechanics": [
+      "Area Control",
+      "Engine Building",
+      "Resource Management",
+      "Variable Player Powers"
+    ],
+    "theme": ["Industrial Revolution", "War", "Steampunk"],
+    "players": { "min": "1", "max": "7" },
+    "playtime": { "min": "90", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "8.2",
+      "link": "https://boardgamegeek.com/boardgame/169786/scythe"
+    }
+  },
+
+  {
+    "id": 9,
+    "name": "King of Tokyo",
+    "type": ["Family", "Dice"],
+    "description": "A fast-paced dice-rolling game where players control monsters battling for dominance over Tokyo.",
+    "categories": ["Kaiju", "Dice", "Combat"],
+    "mechanics": ["Dice Rolling", "Push Your Luck", "Player Elimination"],
+    "theme": ["Monsters", "Destruction", "Battle"],
+    "players": { "min": "2", "max": "6" },
+    "playtime": { "min": "30", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.2",
+      "link": "https://boardgamegeek.com/boardgame/70323/king-tokyo"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Tyrants of the Underdark",
+    "type": ["Deck-Building", "Area Control"],
+    "description": "A game of power and deception where players control drow houses vying for supremacy in the Underdark.",
+    "categories": ["Fantasy", "Deck-Building", "War"],
+    "mechanics": ["Deck Building", "Area Control", "Hand Management"],
+    "theme": ["Dungeons & Dragons", "Underdark", "Intrigue"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "60", "max": "90", "unit": "minute" },
+    "bgg": {
+      "rating": "8.2",
+      "link": "https://boardgamegeek.com/boardgame/336847/tyrants-of-the-underdark-board-game"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Fort",
+    "type": ["Deck-Building", "Strategy"],
+    "description": "A deck-building game where players collect friends, gather pizza and toys, and build the coolest fort.",
+    "categories": ["Family", "Humor", "Deck-Building"],
+    "mechanics": ["Deck Building", "Hand Management", "Variable Player Powers"],
+    "theme": ["Childhood", "Treehouses", "Friendship"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "20", "max": "40", "unit": "minute" },
+    "bgg": {
+      "rating": "7.2",
+      "link": "https://boardgamegeek.com/boardgame/296912/fort"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Lords of Waterdeep",
+    "type": ["Strategy", "Worker Placement"],
+    "description": "A worker-placement game set in the Dungeons & Dragons universe where players act as secret rulers of Waterdeep.",
+    "categories": ["Fantasy", "Strategy", "Worker Placement"],
+    "mechanics": [
+      "Worker Placement",
+      "Resource Management",
+      "Secret Objectives"
+    ],
+    "theme": ["Dungeons & Dragons", "Intrigue", "Quests"],
+    "players": { "min": "2", "max": "5" },
+    "playtime": { "min": "60", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "7.8",
+      "link": "https://boardgamegeek.com/boardgame/110327/lords-waterdeep"
+    }
+  },
+
+  {
+    "id": 13,
+    "name": "Scoundrels of Skullport",
+    "type": ["Expansion", "Strategy"],
+    "description": "An expansion for Lords of Waterdeep that adds new buildings, intrigue cards, and the corruption mechanic.",
+    "categories": ["Fantasy", "Strategy", "Worker Placement"],
+    "mechanics": [
+      "Worker Placement",
+      "Resource Management",
+      "Variable Player Powers"
+    ],
+    "theme": ["Dungeons & Dragons", "Underground", "Intrigue"],
+    "players": { "min": "2", "max": "5" },
+    "playtime": { "min": "60", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "8.4",
+      "link": "https://boardgamegeek.com/boardgame/134342/lords-of-waterdeep-scoundrels-of-skullport"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Codenames",
+    "type": ["Party", "Word Game"],
+    "description": "A word association game where players give one-word clues to help teammates guess secret words on the board.",
+    "categories": ["Deduction", "Team-based", "Word Game"],
+    "mechanics": ["Team-Based Game", "Pattern Recognition", "Push Your Luck"],
+    "theme": ["Spies", "Secret Agents", "Communication"],
+    "players": { "min": "2", "max": "8" },
+    "playtime": { "min": "15", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.7",
+      "link": "https://boardgamegeek.com/boardgame/178900/codenames"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Codenames Duet",
+    "type": ["Cooperative", "Word Game"],
+    "description": "A cooperative version of Codenames where two players work together to uncover all their words before running out of turns.",
+    "categories": ["Deduction", "Word Game", "Co-op"],
+    "mechanics": [
+      "Cooperative Play",
+      "Pattern Recognition",
+      "Communication Limits"
+    ],
+    "theme": ["Spies", "Secret Agents", "Communication"],
+    "players": { "min": "2", "max": "2" },
+    "playtime": { "min": "15", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.8",
+      "link": "https://boardgamegeek.com/boardgame/224037/codenames-duet"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Unstable Unicorns",
+    "type": ["Party", "Card Game"],
+    "description": "A competitive card game where players build an army of unicorns and use magic and betrayal to outplay opponents.",
+    "categories": ["Card Game", "Humor", "Take That"],
+    "mechanics": ["Hand Management", "Player Elimination", "Take That"],
+    "theme": ["Unicorns", "Fantasy", "Humor"],
+    "players": { "min": "2", "max": "8" },
+    "playtime": { "min": "30", "max": "45", "unit": "minute" },
+    "bgg": {
+      "rating": "6.3",
+      "link": "https://boardgamegeek.com/boardgame/234190/unstable-unicorns"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Portal: The Uncooperative Cake Acquisition Game",
+    "type": ["Party", "Strategy"],
+    "description": "A satirical game based on the Portal video game series, featuring deception and betrayals over cake.",
+    "categories": ["Humor", "Card Game", "Deception"],
+    "mechanics": ["Hand Management", "Take That", "Player Elimination"],
+    "theme": ["Science Fiction", "Betrayal", "Portal"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "30", "max": "45", "unit": "minute" },
+    "bgg": {
+      "rating": "6.2",
+      "link": "https://boardgamegeek.com/boardgame/159406/portal-the-uncooperative-cake-acquisition-game"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Dungeons & Dragons Essentials Kit",
+    "type": ["Roleplaying Game", "Strategy"],
+    "description": "A starter kit for new players to dive into the world of Dungeons & Dragons with simplified rules and a set of adventures.",
+    "categories": ["Role-Playing Game", "Fantasy", "Dungeons & Dragons"],
+    "mechanics": ["Storytelling", "Role-playing", "Combat"],
+    "theme": ["Fantasy", "Adventure", "Dungeon Crawling"],
+    "players": { "min": "1", "max": "5" },
+    "playtime": { "min": "60", "max": "180", "unit": "minute" },
+    "bgg": {
+      "rating": "8.1",
+      "link": "https://boardgamegeek.com/rpgitem/281382/d-and-d-essentials-kit"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Hive",
+    "type": ["Abstract", "Strategy"],
+    "description": "An abstract strategy game where players aim to surround the opponent's queen bee while avoiding their own being surrounded.",
+    "categories": ["Abstract", "Two-Player", "Strategy"],
+    "mechanics": ["Grid Movement", "Tile Placement", "Capture"],
+    "theme": ["Insects", "Abstract"],
+    "players": { "min": "2", "max": "2" },
+    "playtime": { "min": "20", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.7",
+      "link": "https://boardgamegeek.com/boardgame/154597/hive-pocket"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Decrypto",
+    "type": ["Party", "Word Game"],
+    "description": "A word game where teams try to give and decode clues while keeping their code hidden from the opposing team.",
+    "categories": ["Deduction", "Word Game", "Team-based"],
+    "mechanics": ["Team-Based Game", "Pattern Recognition", "Clue Giving"],
+    "theme": ["Spies", "Communication", "Teamwork"],
+    "players": { "min": "3", "max": "8" },
+    "playtime": { "min": "15", "max": "45", "unit": "minute" },
+    "bgg": {
+      "rating": "7.8",
+      "link": "https://boardgamegeek.com/boardgame/225694/decrypto"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Dominion: Big Box",
+    "type": ["Deck-Building", "Card Game"],
+    "description": "A collection of the base game and expansions for the popular deck-building game Dominion.",
+    "categories": ["Deck-Building", "Card Game", "Strategy"],
+    "mechanics": ["Deck Building", "Set Collection", "Hand Management"],
+    "theme": ["Medieval", "Economy", "Card Games"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "20", "max": "40", "unit": "minute" },
+    "bgg": {
+      "rating": "8.1",
+      "link": "https://boardgamegeek.com/boardgame/142132/dominion-big-box"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Dominion: Intrigue",
+    "type": ["Deck-Building", "Card Game"],
+    "description": "An expansion for Dominion, introducing new cards and additional player interactions.",
+    "categories": ["Deck-Building", "Card Game", "Strategy"],
+    "mechanics": ["Deck Building", "Hand Management", "Card Drafting"],
+    "theme": ["Medieval", "Economy", "Expansion"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "30", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "8.0",
+      "link": "https://boardgamegeek.com/boardgame/40834/dominion-intrigue"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Dominion: Guilds",
+    "type": ["Deck-Building", "Card Game"],
+    "description": "An expansion for Dominion that adds new guilds to the game, creating even more strategic possibilities.",
+    "categories": ["Deck-Building", "Card Game", "Strategy"],
+    "mechanics": ["Deck Building", "Hand Management", "Card Drafting"],
+    "theme": ["Medieval", "Economy", "Expansion"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "30", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.6",
+      "link": "https://boardgamegeek.com/boardgame/137166/dominion-guilds"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Dominion: Menagerie",
+    "type": ["Deck-Building", "Card Game"],
+    "description": "An expansion for Dominion that introduces new cards and interactions focused on animals and nature.",
+    "categories": ["Deck-Building", "Card Game", "Strategy"],
+    "mechanics": ["Deck Building", "Hand Management", "Card Drafting"],
+    "theme": ["Medieval", "Economy", "Expansion"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "30", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "8.3",
+      "link": "https://boardgamegeek.com/boardgame/298055/dominion-menagerie"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Catan",
+    "type": ["Strategy", "Family"],
+    "description": "A classic game of resource management where players settle an island, build roads, and trade resources.",
+    "categories": ["Resource Management", "Trading", "Strategy"],
+    "mechanics": ["Trading", "Resource Management", "Dice Rolling"],
+    "theme": ["Settlers", "Economy", "Exploration"],
+    "players": { "min": "3", "max": "4" },
+    "playtime": { "min": "60", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "7.1",
+      "link": "https://boardgamegeek.com/boardgame/13/catan"
+    }
+  },
+  {
+    "id": 26,
+    "name": "The Struggle for Catan",
+    "type": ["Strategy", "Card Game"],
+    "description": "A card game where players compete for resources and attempt to control Catan's lands.",
+    "categories": ["Card Game", "Strategy"],
+    "mechanics": ["Card Drafting", "Hand Management", "Set Collection"],
+    "theme": ["Settlers", "Economy"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "30", "max": "45", "unit": "minute" },
+    "bgg": {
+      "rating": "6.8",
+      "link": "https://boardgamegeek.com/boardgame/91534/struggle-for-catan"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Risk: Star Wars Edition",
+    "type": ["Strategy", "Area Control"],
+    "description": "A themed version of Risk set in the Star Wars universe where players battle for control of the galaxy.",
+    "categories": ["War", "Strategy", "Thematic"],
+    "mechanics": ["Area Control", "Dice Rolling", "Battles"],
+    "theme": ["Star Wars", "Galactic War", "Space"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "60", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "7.5",
+      "link": "https://boardgamegeek.com/boardgame/22551/risk-star-wars-original-trilogy-edition"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Puerto Rico",
+    "type": ["Strategy", "Economic"],
+    "description": "A classic strategy game where players assume roles as colonial governors managing plantations and shipping goods.",
+    "categories": ["Economic", "Strategy", "Resource Management"],
+    "mechanics": [
+      "Worker Placement",
+      "Resource Management",
+      "Action Programming"
+    ],
+    "theme": ["Colonial", "Economic"],
+    "players": { "min": "2", "max": "5" },
+    "playtime": { "min": "90", "max": "150", "unit": "minute" },
+    "bgg": {
+      "rating": "8.1",
+      "link": "https://boardgamegeek.com/boardgame/3076/puerto-rico"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Istanbul",
+    "type": ["Strategy", "Worker Placement"],
+    "description": "A fast-paced strategy game where players navigate the markets of Istanbul to earn rubies and become the wealthiest merchant.",
+    "categories": ["Worker Placement", "Trading", "Strategy"],
+    "mechanics": ["Worker Placement", "Set Collection", "Resource Management"],
+    "theme": ["Marketplace", "Merchant", "Economy"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "40", "max": "100", "unit": "minute" },
+    "bgg": {
+      "rating": "7.5",
+      "link": "https://boardgamegeek.com/boardgame/148949/istanbul"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Azul",
+    "type": ["Family", "Abstract"],
+    "description": "A tile-laying game where players compete to complete colorful patterns on their individual boards.",
+    "categories": ["Abstract", "Tile Placement", "Family"],
+    "mechanics": ["Tile Placement", "Set Collection", "Pattern Building"],
+    "theme": ["Tiles", "Patterns"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "30", "max": "45", "unit": "minute" },
+    "bgg": {
+      "rating": "7.8",
+      "link": "https://boardgamegeek.com/boardgame/230802/azul"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Root",
+    "type": ["Strategy", "Area Control"],
+    "description": "A game of woodland creatures where players fight for control of the forest through area control and asymmetrical gameplay.",
+    "categories": ["Area Control", "Fantasy", "Asymmetrical"],
+    "mechanics": ["Area Movement", "Deck Building", "Variable Player Powers"],
+    "theme": ["Animals", "Fantasy", "War"],
+    "players": { "min": "2", "max": "6" },
+    "playtime": { "min": "60", "max": "90", "unit": "minute" },
+    "bgg": {
+      "rating": "8.1",
+      "link": "https://boardgamegeek.com/boardgame/237182/root"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Agricola",
+    "type": ["Strategy", "Worker Placement"],
+    "description": "A worker-placement game where players manage a farm, grow crops, raise animals, and expand their home while feeding their family.",
+    "categories": ["Worker Placement", "Resource Management", "Economic"],
+    "mechanics": ["Action Selection", "Hand Management", "Set Collection"],
+    "theme": ["Agriculture", "Farming", "Rural Life"],
+    "players": { "min": "1", "max": "5" },
+    "playtime": { "min": "30", "max": "150", "unit": "minute" },
+    "bgg": {
+      "rating": "8.0",
+      "link": "https://boardgamegeek.com/boardgame/31260/agricola"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Gloomhaven: Jaws of the Lion",
+    "type": ["Cooperative", "Dungeon Crawler"],
+    "description": "A streamlined version of Gloomhaven that retains deep tactical combat and an engaging storyline with modular scenarios.",
+    "categories": ["Cooperative", "Fantasy", "Dungeon Crawler"],
+    "mechanics": ["Action Selection", "Deck Building", "Scenario-based"],
+    "theme": ["Fantasy", "Adventure", "Dungeon"],
+    "players": { "min": "1", "max": "4" },
+    "playtime": { "min": "30", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "8.7",
+      "link": "https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-of-the-lion"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Wyrmspan",
+    "type": ["Strategy", "Worker Placement"],
+    "description": "A worker placement game where players control dragons in a fantasy world, trying to build the most powerful lair.",
+    "categories": ["Fantasy", "Strategy", "Worker Placement"],
+    "mechanics": ["Worker Placement", "Area Control", "Set Collection"],
+    "theme": ["Dragons", "Fantasy", "Adventure"],
+    "players": { "min": "1", "max": "5" },
+    "playtime": { "min": "60", "max": "90", "unit": "minute" },
+    "bgg": {
+      "rating": "8.0",
+      "link": "https://boardgamegeek.com/boardgame/410201/wyrmspan"
+    }
+  },
+  {
+    "id": 35,
+    "name": "The Resistance",
+    "type": ["Party", "Social Deduction"],
+    "description": "A game of social deduction where players try to figure out who among them are spies attempting to sabotage their missions.",
+    "categories": ["Social Deduction", "Party", "Hidden Roles"],
+    "mechanics": ["Hidden Roles", "Bluffing", "Team-Based Game"],
+    "theme": ["Spies", "Deception", "Secret Agents"],
+    "players": { "min": "5", "max": "10" },
+    "playtime": { "min": "30", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.5",
+      "link": "https://boardgamegeek.com/boardgame/41114/resistance"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Munchkin",
+    "type": ["Party", "Card Game"],
+    "description": "A humorous card game where players fight monsters and backstab each other to level up and win the game.",
+    "categories": ["Card Game", "Humor", "Fantasy"],
+    "mechanics": ["Deck Building", "Combat", "Player Elimination"],
+    "theme": ["Monsters", "Humor", "Adventure"],
+    "players": { "min": "3", "max": "6" },
+    "playtime": { "min": "60", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "6.2",
+      "link": "https://boardgamegeek.com/boardgame/1927/munchkin"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Star Munchkin",
+    "type": ["Party", "Card Game"],
+    "description": "A space-themed version of Munchkin, with new mechanics, monsters, and backstabbing fun.",
+    "categories": ["Card Game", "Humor", "Fantasy"],
+    "mechanics": ["Deck Building", "Combat", "Player Elimination"],
+    "theme": ["Space", "Monsters", "Humor"],
+    "players": { "min": "3", "max": "6" },
+    "playtime": { "min": "60", "max": "90", "unit": "minute" },
+    "bgg": {
+      "rating": "6.1",
+      "link": "https://boardgamegeek.com/boardgame/4095/star-munchkin"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Disney: Villainous",
+    "type": ["Strategy", "Thematic"],
+    "description": "A strategy game where players take on the roles of Disney villains, each with their own unique goals and abilities.",
+    "categories": ["Strategy", "Thematic", "Card Game"],
+    "mechanics": [
+      "Variable Player Powers",
+      "Set Collection",
+      "Hand Management"
+    ],
+    "theme": ["Disney", "Villains", "Fantasy"],
+    "players": { "min": "2", "max": "6" },
+    "playtime": { "min": "45", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "6.9",
+      "link": "https://boardgamegeek.com/boardgame/256382/disney-villainous-the-worst-takes-it-all"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Hunt A Killer: Murder at the Motel",
+    "type": ["Cooperative", "Mystery"],
+    "description": "A mystery-solving cooperative game where players uncover clues and solve a murder case.",
+    "categories": ["Cooperative", "Mystery", "Puzzle"],
+    "mechanics": ["Clue Discovery", "Storytelling", "Investigation"],
+    "theme": ["Murder", "Mystery", "Crime"],
+    "players": { "min": "1", "max": "5" },
+    "playtime": { "min": "45", "max": "60", "unit": "minute" },
+    "bgg": {
+      "rating": "5.9",
+      "link": "https://boardgamegeek.com/boardgame/341401/hunt-a-killer-murder-at-the-motel"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Love Letter",
+    "type": ["Party", "Card Game"],
+    "description": "A fast and fun deduction game where players try to get their love letter to the princess while preventing others from doing the same.",
+    "categories": ["Card Game", "Deduction", "Quick"],
+    "mechanics": ["Hand Management", "Bluffing", "Elimination"],
+    "theme": ["Romance", "Deception", "Courtship"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "15", "max": "15", "unit": "minute" },
+    "bgg": {
+      "rating": "7.5",
+      "link": "https://boardgamegeek.com/boardgame/129622/love-letter"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Fox in the Forest",
+    "type": ["Card Game", "Trick-Taking"],
+    "description": "A two-player trick-taking card game with special abilities that add strategy and variety.",
+    "categories": ["Card Game", "Trick-Taking", "Two-Player"],
+    "mechanics": ["Trick-Taking", "Set Collection", "Player Interaction"],
+    "theme": ["Animals", "Forest", "Fairy Tales"],
+    "players": { "min": "2", "max": "2" },
+    "playtime": { "min": "30", "max": "30", "unit": "minute" },
+    "bgg": {
+      "rating": "7.3",
+      "link": "https://boardgamegeek.com/boardgame/221965/the-fox-in-the-forest"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Reign Absolute",
+    "type": ["Strategy", "Area Control"],
+    "description": "A strategic game where players vie for control of the medieval kingdom of Yggdrasil, utilizing influence and military power.",
+    "categories": [
+      "Area Control",
+      "Hand Management",
+      "Medieval",
+      "Military",
+      "Strategy"
+    ],
+    "mechanics": ["Area Control", "Influence", "Hand Management", "Military"],
+    "theme": ["Medieval", "Fantasy", "War"],
+    "players": { "min": "2", "max": "4" },
+    "playtime": { "min": "60", "max": "120", "unit": "minute" },
+    "bgg": {
+      "rating": "7.2",
+      "link": "https://boardgamegeek.com/boardgame/236072/reign-absolute"
+    }
+  }
+]
